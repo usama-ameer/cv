@@ -1,0 +1,19 @@
+.fitProfileImg{
+width: 150px;
+}
+ul+table,th,td {
+  border: 1px solid black;
+}
+
+.skills{
+    text-decoration: underline;
+}
+.checked {
+  color: orange;
+}
+.table-skills{
+border-spacing: 15px;
+}
+
+
+
